@@ -1,1 +1,31 @@
 /* Your CSS here. */
+body {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.background {
+    background-color: hsl(0, 0%, 43%);
+    color: white;
+    padding: 20px;
+    width: 750px;
+    height: 550px;
+    margin: 50px auto;
+    text-align: center;
+}
+
+.background img {
+    height: 150px;
+    width: 150px;
+}
+
+.background h3 {
+    font-style: italic;
+}
+
+.background a {
+    font-weight: bold;
+}
+
+.background p {
+    text-align: left;
+}
